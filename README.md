@@ -1,4 +1,4 @@
 # hello-world
-Hello. This is Yangyang Zhu.
+Hello world. This is Yangyang Zhu.
 
 
